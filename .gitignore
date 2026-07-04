@@ -32,3 +32,4 @@ prisma/test-connection.ts
 prisma/create_db.py
 prisma/add_column.py
 prisma-error.txt
+.vercel
